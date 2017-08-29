@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/android/.android/build-cache/9557dfd8be7961073a4f0309349499c5fe761a8c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/android/Lab15_Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e68b666f3b18c6b2ba2ec9c2aeba2b94e8330912/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/android/Lab15_Coffee/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/android/Lab15_Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b4720d22fd5bfae353856535ebb7ff73e91f865f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/android/.android/build-cache/f4dad4e7dbb8bb54205bf06ec228f4817eea0947/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/android/Lab15_Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d588c41b96ecafb956a4b3349da0095ef6072731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/android/.android/build-cache/b4ff94d894a881bf07c0bf21a72a6724209e64b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/android/Lab15_Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_474a55bf53fa079d57d6bce2c58443232f214310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/android/Lab15_Coffee/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="78b11460427c176cf8c676362d8b19575c68fa8a">
+        <dex dex="/Users/android/Lab15_Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_417e60fb5370ea546b2e2dff7b6d816b5e1e325c/classes.dex" />
+    </item>
+
+</items>
